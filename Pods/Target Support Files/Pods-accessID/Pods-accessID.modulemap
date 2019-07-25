@@ -1,0 +1,6 @@
+module Pods_accessID {
+  umbrella header "Pods-accessID-umbrella.h"
+
+  export *
+  module * { export * }
+}
